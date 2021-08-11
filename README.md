@@ -1,16 +1,23 @@
-### Hi there 👋
-
 <!--
-**ginny100/ginny100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello, my name is Ginny, ahihi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+## Hey, ginny100 here! [![ ](https://cfrating.ihcr.top/?user=ouuan&style=flat-square)](https://codeforces.com/profile/ouuan)
+
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ginny100&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
+
+I'm [Bio]
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginny100&layout=compact)](https://github.com/ginny100/github-readme-stats)
+
+```
+<!--END_SECTION:waka-->
+
+---
+
+#### :star2: Projects starred by me
+
+[My Awesome Stars](AWESOME-STARS.md)
