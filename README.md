@@ -7,7 +7,7 @@ Hello, my name is Ginny, ahihi.
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> My name is Ginny, an aspiring technophile.<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 ---
 ---
-<img width="100%" src="https://octodex.github.com/images/nyantocat.gif">
+<img align="center" width="70%" src="https://octodex.github.com/images/nyantocat.gif">
 
 I enjoy learning new technologies and new programming languages by making something from scratch step by step.
 
@@ -19,5 +19,4 @@ I enjoy learning new technologies and new programming languages by making someth
 <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=ginny100&theme=cobalt&show_icons=true">
 ---
 
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginny100&langs_count=8)](https://github.com/ginny100/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginny100&langs_count=8)](https://github.com/ginny100/github-readme-stats) <img align="right" width="39%" src="https://m.media-amazon.com/images/I/51J5d1IPTRL._AC_SY741_.jpg">
