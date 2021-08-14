@@ -3,9 +3,7 @@ Hello, my name is Ginny, ahihi.
 -->
 
 ## Hi there!
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-My name is Ginny, an aspiring technophile.
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> My name is Ginny, an aspiring technophile. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <div align="center">
     <img width="100%" src="https://octodex.github.com/images/nyantocat.gif">
 </div>
