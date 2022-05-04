@@ -2,29 +2,43 @@
 Hello, my name is Ginny, ahihi.
 -->
 
-## Hi there!
+## Hi there! Welcome to my GitHub Profile!
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> My name is Ginny, an aspiring technophile. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <div align="center">
-    <img width="100%" src="https://octodex.github.com/images/nyantocat.gif">
+    <img width="90%" src="https://pbs.twimg.com/media/CoY9nIJVIAAUjcX.jpg">
 </div>
 I enjoy learning new technologies and new programming languages by making something from scratch step by step.
 
-## Languages and Tools:
-I have been learning and exploring these following tools
+### Languages and Tools:
+I have been learning and exploring these following tools and languages
 <div align="center"> 
-    <code><a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></code>
+    <code><a href="https://www.cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></code>
     <code><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
     <code><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></code>
     <code><a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a></code>
     <code><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></code>
     <code><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>
     <code><a href="https://developer.apple.com/swift/" target="_blank"><img src="https://developer.apple.com/swift/images/swift-og.png" alt="swift" width="40" height="40"/></a></code>
+    <code><a href="https://flutter.dev/" target="_blank"><img src="https://pbs.twimg.com/profile_images/1187814172307800064/MhnwJbxw_400x400.jpg" alt="flutter" width="40" height="40"/></a></code>
+    <code><a href="https://dart.dev/" target="_blank"><img src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" alt="dart" width="40" height="40"/></a></code>
+    <code><a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/></a></code>
+    <code><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/></a></code>
+    <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="40" height="40"/></a></code>
+    <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40" height="40"/></a></code>
 </div>
 
-## Stats
-<div align="center">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ginny100&theme=cobalt&show_icons=true">
+### Stats
+<!-- Profile views
+<p> <img src="https://komarev.com/ghpvc/?username=ginny100" alt="ginny100" /> </p> -->
+
+![](https://visitor-badge.laobi.icu/badge?page_id=ginny100.ginny100)
+
+[![Github](https://img.shields.io/github/followers/ginny100?label=Follow&style=social)](https://github.com/ginny100)
+
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=ginny100&theme=onedark&show_icons=true">
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginny100&langs_count=8)](https://github.com/ginny100/github-readme-stats)
-<img align="right" width="39%" src="https://m.media-amazon.com/images/I/51J5d1IPTRL._AC_SY741_.jpg">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginny100&langs_count=10)](https://github.com/ginny100/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginny100&layout=compact)](https://github.com/ginny100/github-readme-stats) -->
