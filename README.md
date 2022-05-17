@@ -7,7 +7,7 @@ Hello, my name is Ginny, ahihi.
 <div align="center">
     <img width="90%" src="https://pbs.twimg.com/media/CoY9nIJVIAAUjcX.jpg">
 </div>
-I enjoy learning new technologies and new programming languages by making something from scratch step by step.
+I enjoy learning new technologies and new programming languages by making something from scratch step by step as well as working on real world projects.
 
 ### Languages and Tools:
 I have been learning and exploring these following tools and languages
