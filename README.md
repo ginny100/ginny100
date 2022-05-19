@@ -32,14 +32,24 @@ I have been learning and exploring these following tools and languages
 <!-- Profile views
 <p> <img src="https://komarev.com/ghpvc/?username=ginny100" alt="ginny100" /> </p> -->
 
+<!-- Profile Visitors -->
 ![](https://visitor-badge.laobi.icu/badge?page_id=ginny100.ginny100)
 
-[![Github](https://img.shields.io/github/followers/ginny100?label=Follow&style=social)](https://github.com/ginny100)
+<!-- LeetCode Stats Card -->
+<!-- <p align="center">
+  <a href="https://leetcode.com/ginny100" target="_blank">
+    <img width=60% src="https://leetcode.card.workers.dev/?username=ginny100&theme=dark&font=source_code_pro&extension=activity&border_radius=10"/>
+  </a>
+</p> -->
 
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=ginny100&theme=onedark&show_icons=true">
-</div>
+<!-- GitHub Stats -->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=ginny100&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact"/><br><br>
+    <img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=ginny100&theme=onedark&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
+    <!-- <img align="center" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ginny100&theme=onedark" /> -->
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginny100&langs_count=10)](https://github.com/ginny100/github-readme-stats)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginny100&layout=compact)](https://github.com/ginny100/github-readme-stats) -->
+<!-- GitHub Activity Graph -->
+![Ginny's github activity graph](https://activity-graph.herokuapp.com/graph?username=ginny100&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
