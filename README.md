@@ -42,13 +42,9 @@ I have been learning and exploring these following tools and languages
   </a>
 </p> -->
 
-<!-- GitHub Stats -->
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=ginny100&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact"/><br><br>
-    <img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=ginny100&theme=onedark&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
-    <!-- <img align="center" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ginny100&theme=onedark" /> -->
-  </a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ginny100&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ginny100&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" />
 </p>
 
 <!-- GitHub Activity Graph -->
