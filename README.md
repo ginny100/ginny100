@@ -25,6 +25,7 @@ I have been learning and exploring these following tools and languages
     <code><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/></a></code>
     <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="40" height="40"/></a></code>
     <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40" height="40"/></a></code>
+    <code><a href="https://getbootstrap.com/" target="_blank"><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/></a></code>
     <code><a href="https://jupyter-notebook.readthedocs.io/en/stable/" target="_blank"><img src="https://avatars.githubusercontent.com/u/7388996?s=200&v=4" alt="jupyter" width="40" height="40"/></a></code>
 </div>
 
