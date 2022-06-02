@@ -3,7 +3,7 @@ Hello, my name is Ginny, ahihi.
 -->
 
 ## Hi there! Welcome to my GitHub Profile!
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> My name is Ginny, an aspiring technophile. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="4%"> My name is Ginny, an aspiring technophile. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="4%">
 <div align="center">
     <img width="90%" src="https://pbs.twimg.com/media/CoY9nIJVIAAUjcX.jpg">
 </div>
