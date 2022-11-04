@@ -2,22 +2,23 @@
 Hello, my name is Ginny, ahihi.
 -->
 
-## Hi there! Welcome to my GitHub Profile!
-<img src="./assets/waving-hand.webp" width="4%"> My name is Ginny, an aspiring technophile. <img src="./assets/waving-hand.webp" width="4%">
+# Hi there! Welcome to my GitHub Profile! ✨
+
+## <img src="./assets/waving-hand.webp" width="4%"> My name is Ginny, an aspiring technophile. <img src="./assets/waving-hand.webp" width="4%">
 
 <div align="center">
     <img width="80%" src="./assets/quote1.jpeg">
 </div>
-I enjoy learning new technologies and new programming languages by making something from scratch step by step as well as working on real world projects.
+📖 I enjoy learning new technologies and new programming languages by making something from scratch step by step as well as working on real world projects 🛠
 
-Self-learning is one of the most important and enjoyable parts of my life. I soon found out that GitHub is such a good place for me to record my never-ending learning journey from a technophobe to a technophile. To me, it is my open learning journal where I can not only keep my notes and references while learning new technical stuff but also share them with others who may find them helpful.
+📖 <b>Self-learning</b> is one of the most important and enjoyable parts of my life. I soon found out that GitHub is such a good place for me to record my never-ending learning journey from a technophobe to a technophile 🔥 To me, it is my open learning journal where I can not only keep my notes and references while learning new technical stuff but also share them with others who may find them helpful 📔
 
 <div align="center">
     <img width="60%" src="./assets/quote2.jpeg">
 </div>
 
-## Languages and Tools:
-I have been learning and exploring these following tools and languages
+## 🛠 Languages and Tools
+📖 I have been learning and exploring these following tools and languages
 <div align="center"> 
     <code><a href="https://www.cplusplus.com/" title="C++" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></code>
     <code><a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
@@ -42,7 +43,7 @@ I have been learning and exploring these following tools and languages
     <code><a href="https://www.postman.com/" title="Postman" target="_blank"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/></a></code>
 </div>
 
-## Stats
+## 📊 Stats
 <!-- Profile views
 <p> <img src="https://komarev.com/ghpvc/?username=ginny100" alt="ginny100" /> </p> -->
 
@@ -67,3 +68,7 @@ I have been learning and exploring these following tools and languages
 
 <!-- GitHub Activity Graph -->
 ![Ginny's github activity graph](https://activity-graph.herokuapp.com/graph?username=ginny100&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+
+<div>
+  <p align="center" style="font-size: 2.5rem">🍀🍀🍀<p>
+</div>
