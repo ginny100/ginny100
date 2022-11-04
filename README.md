@@ -2,17 +2,18 @@
 Hello, my name is Ginny, ahihi.
 -->
 
-# Hi there! Welcome to my GitHub Profile!
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="4%"> My name is Ginny, an aspiring technophile. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="4%">
+## Hi there! Welcome to my GitHub Profile!
+<img src="./assets/waving-hand.webp" width="4%"> My name is Ginny, an aspiring technophile. <img src="./assets/waving-hand.webp" width="4%">
+
 <div align="center">
-    <img width="80%" src="./quote1.jpeg">
+    <img width="80%" src="./assets/quote1.jpeg">
 </div>
 I enjoy learning new technologies and new programming languages by making something from scratch step by step as well as working on real world projects.
 
 Self-learning is one of the most important and enjoyable parts of my life. I soon found out that GitHub is such a good place for me to record my never-ending learning journey from a technophobe to a technophile. To me, it is my open learning journal where I can not only keep my notes and references while learning new technical stuff but also share them with others who may find them helpful.
 
 <div align="center">
-    <img width="60%" src="./quote2.jpeg">
+    <img width="60%" src="./assets/quote2.jpeg">
 </div>
 
 ## Languages and Tools:
