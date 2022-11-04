@@ -9,7 +9,14 @@ Hello, my name is Ginny, ahihi.
 <div align="center">
     <img width="80%" src="./assets/quote1.jpeg">
 </div>
-📖 I enjoy learning new technologies and new programming languages by making something from scratch step by step as well as working on real world projects 🛠
+
+📖 I first learned to code at the beginning of <b>2019</b> as I switched my major from Art to Computer Science in college, but I literally had no luck with this major 🤯 I could not have hated coding more than I did 😕
+
+📖 Not until August <b>2021</b> did I ACTUALLY start learning programming and coding in a way that worked out well for me 🧐 I finally knew how to learn coding by trial and error 🤓
+
+📖 I officially became a Software Engineer in August <b>2022</b> after managing to get out of college 3 months before that 🙏🏻
+
+📖 Now, I enjoy learning new technologies and new programming languages by making something from scratch step by step as well as working on real world projects 🛠
 
 📖 <b>Self-learning</b> is one of the most important and enjoyable parts of my life. I soon found out that GitHub is such a good place for me to record my never-ending learning journey from a technophobe to a technophile 🔥 To me, it is my open learning journal where I can not only keep my notes and references while learning new technical stuff but also share them with others who may find them helpful 📔
 
@@ -19,6 +26,7 @@ Hello, my name is Ginny, ahihi.
 
 ## 🛠 Languages and Tools
 📖 I have been learning and exploring these following tools and languages
+
 <div align="center"> 
     <code><a href="https://www.cplusplus.com/" title="C++" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></code>
     <code><a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
