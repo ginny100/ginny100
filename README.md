@@ -24,6 +24,10 @@ Hello, my name is Ginny, ahihi.
     <img width="60%" src="./assets/quote2.jpeg">
 </div>
 
+<div>
+  <p align="center" style="font-size: 2.5rem">🍀🍀🍀<p>
+</div>
+
 ## 🛠 Languages and Tools
 📖 I have been learning and exploring these following tools and languages
 
@@ -77,6 +81,5 @@ Hello, my name is Ginny, ahihi.
 <!-- GitHub Activity Graph -->
 ![Ginny's github activity graph](https://activity-graph.herokuapp.com/graph?username=ginny100&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 
-<div>
-  <p align="center" style="font-size: 2.5rem">🍀🍀🍀<p>
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ginny100&theme=radical&no-frame=false&no-bg=false&margin-w=4)
