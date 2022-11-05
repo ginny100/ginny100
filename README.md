@@ -7,7 +7,7 @@ Hello, my name is Ginny, ahihi.
 ## <img src="./assets/waving-hand.webp" width="4%"> My name is Ginny, an aspiring technophile. <img src="./assets/waving-hand.webp" width="4%">
 
 <div align="center">
-    <img width="80%" src="./assets/quote1.jpeg">
+    <img width="90%" src="./assets/quote1-d.jpeg">
 </div>
 
 📖 I first learned to code at the beginning of __2019__ as I switched from Art to Computer Science in college, but I literally had no luck with this major 🤯 I could not have _hated_ coding more than I did 😕
