@@ -81,7 +81,7 @@ Hello, my name is Ginny, ahihi.
 </p>
 
 <!-- GitHub Activity Graph -->
-![Ginny's github activity graph](https://activity-graph.herokuapp.com/graph?username=ginny100&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=ginny100&theme=react-dark&hide_border=true&title_color=ff6e96&line=ff6e96&point=F8D847&area=true&bg_color=141321" /></a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ginny100&theme=radical&no-frame=false&no-bg=false&margin-w=4)
