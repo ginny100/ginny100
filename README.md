@@ -10,7 +10,7 @@ Hello, my name is Ginny, ahihi.
     <img width="90%" src="./assets/quote1-d.jpeg">
 </div>
 
-### 👩🏻‍💻 Undergrad school - A new journey into the unknown
+### 👩🏻‍💻 Undergrad school - A new journey into the unknown 🧐 🔎
 
 📖 Before starting college in August __2018__, I was, _by all means_, a non-tech person growing up without my own computer in a non-wifi room 🤕 I _never_ thought that one day, coding and all those complex technical kinds of stuff I _never_ cared about would dawn on me and eventually become my career down the road 🔮
 
@@ -24,15 +24,15 @@ Hello, my name is Ginny, ahihi.
 
 📖 __Self-learning__ is one of the most important and enjoyable parts of my life ☺️ I soon found out that GitHub is such a good place for me to record my never-ending learning journey from a technophobe to a technophile 🔥 To me, it is my open learning journal where I can not only keep my notes and references while learning new technical stuff but also share them with others who may find them helpful 📔
 
-### 👩🏻‍💻 Grad school - The next chapter of the endless learning journey
+### 👩🏻‍💻 Grad school - The next chapter of the endless learning journey 🌊 🏄🏻‍♀️
 
-📖 Since the public release of ChatGPT in November __2022__, Artificial Intelligence (AI) has significantly transformed various aspects of our lives. At that time, I had just begun my first job and wasn't considering a career change. However, I enjoyed experimenting with ChatGPT and exploring prompt engineering whenever I had the chance 🤩
+📖 Since the public release of __ChatGPT__ in November __2022__, Artificial Intelligence (AI) has significantly transformed various aspects of our lives. At that time, I had just begun my first job and wasn't considering a career change. However, I _enjoyed_ experimenting with ChatGPT and exploring prompt engineering whenever I had the chance 🤩
 
-📖 In May __2023__, I found myself discontented with the idea of working as a generalist full-stack Software Engineer for my entire career 👩🏻‍💻 While I was enjoying my current job, I didn’t want to be stuck in one role for too long without developing other skill sets 🔥 I developed a keen interest in AI and decided to delve deeper into the field. I first started with Andrew Ng's AI and Machine Learning (AI/ML) specializations and courses on Coursera 🤖
+📖 In May __2023__, I found myself discontented with the idea of working as a generalist full-stack Software Engineer for my entire career 👩🏻‍💻 While I was _enjoying_ my current job, I didn’t want to be stuck in one role for too long without developing other skill sets 🔥 I developed a keen interest in AI and decided to delve deeper into the field. I first started with Andrew Ng's AI and Machine Learning (AI/ML) specializations and courses on Coursera 🤖
 
-📖 After completing around 10 courses and specializations, I decided to commit more seriously to AI/ML 🦾 I applied to several online Master's programs in AI/ML offered by various universities. My goal was to earn a Master's degree while continuing to work full-time, allowing me to gain industry experience simultaneously 🔥
+📖 After completing around 10 courses and specializations 📚, I decided to commit more seriously to AI/ML 🦾 I applied to several online Master's programs in AI/ML offered by various universities in the United States 🏫 My goal was to earn a Master's degree while continuing to work full-time, allowing me to gain industry experience simultaneously 🔥
 
-📖 Fortunately, I was admitted to the University of Texas at Austin, where I have been studying Artificial Intelligence for the next 2.5 years. This journey has been both challenging and rewarding, reinforcing my passion for AI and my commitment to advancing in this exciting field 🤖
+📖 Fortunately, I was admitted to the __University of Texas at Austin__, where I have been studying Artificial Intelligence for the next 2.5 years 💻 This journey has been both challenging and rewarding, reinforcing my passion for AI and my commitment to advancing in this exciting field 🤖
 
 📖 _To be continued..._
 
