@@ -24,6 +24,18 @@ Hello, my name is Ginny, ahihi.
 
 📖 __Self-learning__ is one of the most important and enjoyable parts of my life ☺️ I soon found out that GitHub is such a good place for me to record my never-ending learning journey from a technophobe to a technophile 🔥 To me, it is my open learning journal where I can not only keep my notes and references while learning new technical stuff but also share them with others who may find them helpful 📔
 
+### 👩🏻‍💻 Grad school - The next chapter of the endless learning journey 🌊 🏄🏻‍♀️
+ 
+📖 Since the public release of __ChatGPT__ in November __2022__, Artificial Intelligence (AI) has significantly transformed various aspects of our lives. At that time, I had just begun my first job and wasn't considering a career change. However, I _enjoyed_ experimenting with ChatGPT and exploring prompt engineering whenever I had the chance 🤩
+ 
+📖 In May __2023__, I found myself discontented with the idea of working as a generalist full-stack Software Engineer for my entire career 👩🏻‍💻 While I was _enjoying_ my current job, I didn’t want to be stuck in one role for too long without developing other skill sets 🔥 I developed a keen interest in AI and decided to delve deeper into the field. I first started with Andrew Ng's AI and Machine Learning (AI/ML) specializations and courses on Coursera 🤖
+ 
+📖 After completing around 10 courses and specializations 📚, I decided to commit more seriously to AI/ML 🦾 I applied to several online Master's programs in AI/ML offered by various universities in the United States 🏫 My goal was to earn a Master's degree while continuing to work full-time, allowing me to gain industry experience simultaneously 🔥
+ 
+📖 Fortunately, I was admitted to the __University of Texas at Austin__, where I have been studying Artificial Intelligence for the next 2.5 years 💻 This journey has been both challenging and rewarding, reinforcing my passion for AI and my commitment to advancing in this exciting field 🤖
+ 
+📖 _To be continued..._
+
 <div align="center">
     <img width="60%" src="./assets/quote2.jpeg">
 </div>
@@ -33,6 +45,7 @@ Hello, my name is Ginny, ahihi.
 </div>
 
 ## 🛠 Languages and Tools
+
 📖 I have been learning and exploring these following tools and languages
 
 <div align="center"> 
